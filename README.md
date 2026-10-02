@@ -1,6 +1,18 @@
 
 > Open this page at [https://mdehollander.github.io/microbit-nioo-open-day-2026/](https://mdehollander.github.io/microbit-nioo-open-day-2026/)
 
+## .hex file
+The lastest .hex file is added to the repository. During the open day, we might need to update it one or more times due to different light situations impacting the sensor readout values.
+
+## Server addresses
+
+These server adresses need to be bookmarked in microsoft edge with the following names (to be contiguous with the printed instruction sheet):
+
+| Name: | Address: |
+| ----- | ----- |
+| DNA sequencer! | https://bioinf-open-day.nioo.knaw.nl/ |
+| Microbit CODE! | https://makecode.microbit.org/#tutorial:90432-80326-54134-09432 |
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
