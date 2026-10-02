@@ -11,7 +11,8 @@ These server adresses need to be bookmarked in microsoft edge with the following
 | Name: | Address: |
 | ----- | ----- |
 | DNA sequencer! | https://bioinf-open-day.nioo.knaw.nl/ |
-| Microbit CODE! | https://makecode.microbit.org/#tutorial:90432-80326-54134-09432 |
+| Microbit CODE! (EN) | https://makecode.microbit.org/#tutorial:51482-91703-08137-40802 |
+| Microbit CODE! (NL) | https://makecode.microbit.org/#tutorial:07094-86280-09838-72394 |
 
 ## Use as Extension
 
